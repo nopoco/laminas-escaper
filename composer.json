@@ -1,5 +1,5 @@
 {
-    "name": "laminas/laminas-escaper",
+    "name": "nopoco/laminas-escaper",
     "description": "Securely and safely escape HTML, HTML attributes, JavaScript, CSS, and URLs",
     "license": "BSD-3-Clause",
     "keywords": [
